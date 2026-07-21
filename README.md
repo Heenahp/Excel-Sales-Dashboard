@@ -17,6 +17,12 @@ This project is an interactive Sales Dashboard built using Microsoft Excel.This 
 - Pivot Charts
 - Slicers
 - Data Visualization
+
+  ## 📈 Key Insights
+- Analyzed monthly sales trends
+- Compared regional sales performance
+- Identified top-performing products
+- Used slicers for interactive filtering
   
 ## 📂 File Structure
 - Excel Sales Dashboard.xlsx → Main dashboard file
