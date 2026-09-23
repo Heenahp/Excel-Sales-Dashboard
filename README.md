@@ -4,9 +4,8 @@
 This dashboard analyzes B2B sales performance across dealer, retail, and wholesale customer channels, tracking regional and product-level trends — built to demonstrate distribution/channel-level sales analysis (as opposed to consumer retail analytics).
 
 ## Dataset
-Data used: [ practice dataset/self-generated] — B2B sales data across dealer, retail, and wholesale channels.
+Data used: Synthetic dataset generated to simulate real-world sales patterns, inspired by business scenarios similar to my previous work experience. Created using AI-assisted data generation for portfolio and practice purposes — no confidential/proprietary company data used.
 
-## 🚀 Features
 - KPI Tracking for Sales Performance
 - Data-driven insights for decision making
 - Monthly Sales Trend Analysis
