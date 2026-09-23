@@ -1,7 +1,11 @@
 # 📊 Interactive Excel Sales Dashboard
 
 ## 📌 Project Overview
-This project is an interactive Sales Dashboard built using Microsoft Excel.This dashboard helps analyze sales performance, identify trends, and understand regional and product-level performance using Excel data visualization techniques.
+This dashboard analyzes B2B sales performance across dealer, retail, and wholesale customer channels, tracking regional and product-level trends — built to demonstrate distribution/channel-level sales analysis (as opposed to consumer retail analytics).
+
+## Dataset
+Data used: [ practice dataset/self-generated] — B2B sales data across dealer, retail, and wholesale channels.
+
 ## 🚀 Features
 - KPI Tracking for Sales Performance
 - Data-driven insights for decision making
@@ -19,10 +23,10 @@ This project is an interactive Sales Dashboard built using Microsoft Excel.This 
 - Data Visualization
 
   ## 📈 Key Insights
-- Analyzed monthly sales trends
-- Compared regional sales performance
-- Identified top-performing products
-- Used slicers for interactive filtering
+- South region generated the highest sales (₹2,47,700), nearly double that of West (₹1,26,300) — indicating a strong regional imbalance worth investigating for expansion or resource reallocation.
+- Product B led in quantity sold (281 units), followed closely by Product C (259) and Product A (231) — while Product D lagged (223), suggesting it may need pricing or promotional support.
+- Monthly sales trend shows high volatility — sharp dip in March (₹24,400) followed by a strong recovery peak in November (₹1,11,400) — pointing to inconsistent demand that could benefit from seasonal forecasting.
+- The gap between highest (Nov: ₹1,11,400) and lowest (Mar: ₹24,400) monthly sales is over 4x, highlighting the need for consistent demand-generation strategies across the year.
   
 ## 📂 File Structure
 - Excel Sales Dashboard.xlsx → Main dashboard file
